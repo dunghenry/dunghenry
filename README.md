@@ -4,7 +4,7 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://stackoverflow.com/users/17793218/tr%e1%ba%a7n-v%c4%83n-d%c5%a9ng" title="Stack Overflow Profile"><img width="22" src="https://github.com/dunghenry/dunghenry/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <p align="center">
   <h1 align="center">💕</h1>
@@ -38,35 +38,35 @@
 <h2 align="center">💥 Languages & Frameworks & Tools & Abilities 💥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+  <code><img title="C" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/c.svg"></code>
+  <code><img title="C++" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/cpp.svg"></code>
   <code><img title="Bootstrap" height="30" src="https://www.pngix.com/pngfile/big/673-6739386_twitter-bootstrap-development-bootstrap-4-logo-png-transparent.png"></code>
-  <code><img title="C#" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+  <code><img title="C#" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/cSharp.svg"></code>
    <code><img title=".Net Core" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png"></code>
-  <code><img title="Python" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
+  <code><img title="Python" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/python-original.svg"></code>
 <!--   <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code> -->
   <code><img title="Javascript" height="27" src="https://i0.wp.com/whizsmart.com/wp-content/uploads/2020/08/advanced-javascript.png?w=280&ssl=1"></code>
   <code><img title="Typescript" height="27" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
-  <code><img title="HTML5" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="SASS" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
+  <code><img title="HTML5" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/css.svg"></code>
+  <code><img title="SASS" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/sass.svg"></code>
   <code><img title="React" height="30" width="" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
   <code><img title="Redux" height="30" width="" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
   <code><img title="Vue" height="25" src="https://www.monterail.com/hubfs/_vue-pillar/vue-header-1.png"></code>
   <code><img title="Nuxt" height="30" src="https://assets-us-01.kc-usercontent.com/4e9bdd7a-2db8-4c33-a13a-0c368ec2f108/b3b0ad2c-f60e-45ba-8b61-9208fd7d4281/nuxtjs-logo.svg"></code>
   <code><img title="Angular" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png"></code>
-  <code><img title="Git" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg"></code>
+  <code><img title="Git" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
   <code><img title="Microsoft Visual Studio" height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png"></code>
-  <code><img title="JQuery" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
+  <code><img title="JQuery" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/jquery-original.svg"></code>
   <code><img title="Java" height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
-  <code><img title="JSON" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="GitHub" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+  <code><img title="JSON" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/json.svg"></code>
+  <code><img title="GitHub" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/github.svg"></code>
   <code><img title="AOS animate" height="30" src="https://ps.w.org/cvw-pb-animation/assets/icon-256x256.png?rev=2077939"></code>
-  <code><img title="My SQL" height=30" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/mysql.svg"></code>
-  <code><img title="SQL Server" height=30" src="https://cdn4.iconfinder.com/data/icons/LUMINA/database/png/128/database.png"></code>
-  <code><img title="npm" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
+  <code><img title="My SQL" height="30" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/mysql.svg"></code>
+  <code><img title="SQL Server" height="30" src="https://cdn4.iconfinder.com/data/icons/LUMINA/database/png/128/database.png"></code>
+  <code><img title="npm" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/npm.svg"></code>
   <code><img title="Node JS" height="35" src="https://icon-library.com/images/nodejs-icon/nodejs-icon-15.jpg"></code>
   <code><img title="MongoDB" height="30" src="https://code4developers.com/wp-content/uploads/2019/10/MongoDBicon.png"></code>
   <code><img title="Firebase" height="30" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"></code>
