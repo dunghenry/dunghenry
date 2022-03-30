@@ -42,8 +42,8 @@
   <code><img title="C++" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/cpp.svg"></code>
   <code><img title="Bootstrap" height="30" src="https://www.pngix.com/pngfile/big/673-6739386_twitter-bootstrap-development-bootstrap-4-logo-png-transparent.png"></code>
   <code><img title="C#" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/cSharp.svg"></code>
-   <code><img title=".Net Core" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png"></code>
-  <code><img title="Python" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/python-original.svg"></code>
+<!--    <code><img title=".Net Core" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png"></code> -->
+<!--   <code><img title="Python" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/python-original.svg"></code> -->
 <!--   <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code> -->
   <code><img title="Javascript" height="27" src="https://i0.wp.com/whizsmart.com/wp-content/uploads/2020/08/advanced-javascript.png?w=280&ssl=1"></code>
   <code><img title="Typescript" height="27" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
@@ -53,7 +53,7 @@
   <code><img title="React" height="30" width="" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
   <code><img title="Redux" height="30" width="" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
   <code><img title="Vue" height="25" src="https://www.monterail.com/hubfs/_vue-pillar/vue-header-1.png"></code>
-  <code><img title="Nuxt" height="30" src="https://assets-us-01.kc-usercontent.com/4e9bdd7a-2db8-4c33-a13a-0c368ec2f108/b3b0ad2c-f60e-45ba-8b61-9208fd7d4281/nuxtjs-logo.svg"></code>
+<!--   <code><img title="Nuxt" height="30" src="https://assets-us-01.kc-usercontent.com/4e9bdd7a-2db8-4c33-a13a-0c368ec2f108/b3b0ad2c-f60e-45ba-8b61-9208fd7d4281/nuxtjs-logo.svg"></code> -->
   <code><img title="Angular" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png"></code>
   <code><img title="Git" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="30" src="https://github.com/dunghenry/dunghenry/blob/master/images/postgresql.svg"></code>
@@ -71,13 +71,13 @@
   <code><img title="MongoDB" height="30" src="https://code4developers.com/wp-content/uploads/2019/10/MongoDBicon.png"></code>
   <code><img title="Firebase" height="30" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"></code>
   <code><img title="Postman" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-  <code><img title="PHP" height="27" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"></code>
+<!--   <code><img title="PHP" height="27" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png"></code> -->
   <code><img title="Heroku" height="30" width="30" src="https://img.icons8.com/nolan/2x/heroku.png"></code>
   <code><img title="Express" width="35" src="https://www.mementotech.in/assets/images/icons/express.png"></code>
   <code><img title="Docker" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
   <code><img title="Tailwind CSS" width="35" src="https://www.nstinfotech.com/wp-content/uploads/2020/10/tailwind-logo.png"></code>
-  <code><img title="GraphQL" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"></code>
-  <code><img title="NestJS" width="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
+<!--   <code><img title="GraphQL" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"></code> -->
+<!--   <code><img title="NestJS" width="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code> -->
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
