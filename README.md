@@ -77,7 +77,7 @@
   <code><img title="Docker" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
   <code><img title="Tailwind CSS" width="35" src="https://www.nstinfotech.com/wp-content/uploads/2020/10/tailwind-logo.png"></code>
 <!--   <code><img title="GraphQL" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"></code> -->
-<!--   <code><img title="NestJS" width="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code> -->
+  <code><img title="Next.js" width="35" src="https://logowiki.net/uploads/logo/n/next-js.svg"></code>
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
