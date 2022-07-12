@@ -73,7 +73,6 @@
   <code><img title="Docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
   <code><img title="Tailwind CSS" width="35" src="https://www.nstinfotech.com/wp-content/uploads/2020/10/tailwind-logo.png"></code>
   <code><img title="Next.js" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/195px-Nextjs-logo.svg.png"></code>
-  <code><img title="Next.js" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/195px-Socket-io.svg.png"></code>
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
