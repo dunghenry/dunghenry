@@ -45,7 +45,7 @@
   <code><img title="Javascript" height="30" src="https://i0.wp.com/whizsmart.com/wp-content/uploads/2020/08/advanced-javascript.png?w=280&ssl=1"></code>
   <code><img title="Typescript" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
   <code><img title="HTML5" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/css.svg"></code>
+  <code><img title="CSS" height="39" src="https://github.com/dunghenry/dunghenry/blob/master/images/css.svg"></code>
    <code><img title="Solidity" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/120px-Solidity_logo.svg.png"></code>
   <code><img title="Golang" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png"></code>
   <code><img title="SASS" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/sass.svg"></code>
@@ -57,7 +57,7 @@
   <code><img title="Git" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/postgresql.svg"></code>
   <code><img title="JQuery" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/jquery-original.svg"></code>
-  <code><img title="Java" height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
+  <code><img title="Java" height="38" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
   <code><img title="JSON" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/json.svg"></code>
   <code><img title="GitHub" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/github.svg"></code>
   <code><img title="AOS animate" height="35" src="https://ps.w.org/cvw-pb-animation/assets/icon-256x256.png?rev=2077939"></code>
@@ -73,6 +73,8 @@
   <code><img title="Docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
   <code><img title="Tailwind CSS" width="35" src="https://www.nstinfotech.com/wp-content/uploads/2020/10/tailwind-logo.png"></code>
   <code><img title="Next.js" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/195px-Nextjs-logo.svg.png"></code>
+  <code><img title="GraphQL" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/338px-GraphQL_Logo.svg.png"></code>
+  <code><img title="NestJS" width="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
