@@ -51,6 +51,7 @@
   <code><img title="SASS" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/sass.svg"></code>
   <code><img title="React" height="33" width="" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
   <code><img title="Redux" height="33" width="" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
+   <code><img title="Redux" height="33" width="" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png"></code>
   <code><img title="Vue" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vue.png/330px-Vue.png"></code>
   <code><img title="Redis" height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_plain_wordmark_logo_icon_146367.png"></code>
   <code><img title="Angular" height="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png"></code>
@@ -75,6 +76,8 @@
   <code><img title="Next.js" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/195px-Nextjs-logo.svg.png"></code>
   <code><img title="GraphQL" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/338px-GraphQL_Logo.svg.png"></code>
   <code><img title="NestJS" width="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
+  
+   <code><img title="Soket.io" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/182px-Socket-io.svg.png"></code>
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
