@@ -76,7 +76,12 @@
   <code><img title="Next.js" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/195px-Nextjs-logo.svg.png"></code>
   <code><img title="GraphQL" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/338px-GraphQL_Logo.svg.png"></code>
   <code><img title="NestJS" width="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
-   <code><img title="Soket.io" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/182px-Socket-io.svg.png"></code>
+  <code><img title="Soket.io" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/182px-Socket-io.svg.png"></code>
+  <code><img title="PHP" width="" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/PHP_Logo%2C_text_only.svg/2560px-PHP_Logo%2C_text_only.svg.png"></code>
+  <code><img title="Ruby" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/150px-Ruby_logo.svg.png"></code>
+  <code><img title="Ruby On Rails" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/182px-Ruby_On_Rails_Logo.svg.png"></code>
+  <code><img title="Django" width="80" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/182px-Django_logo.svg.png"></code>
+  <code><img title="Nuxtjs" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/330px-Nuxt_logo.svg.png"></code>
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
