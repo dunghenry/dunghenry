@@ -25,10 +25,7 @@
   <br>
     📫 Contact me: <a href="https://www.facebook.com/profile.php?id=100044130624105">My Facebook</a>
 </p>
-
-
 <hr>
-
 <h2 align="center">💥 Languages & Frameworks & Tools & Abilities 💥</h2>
 <br>
 <p align="center">
@@ -75,7 +72,6 @@
   <code><img title="MySQL" height="35" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/mysql.svg"></code>
  <code><img title="SQL Server" height="35" src="https://cdn4.iconfinder.com/data/icons/LUMINA/database/png/128/database.png"></code>
   <code><img title="MongoDB" height="35" src="https://code4developers.com/wp-content/uploads/2019/10/MongoDBicon.png"></code>
-  <code><img title="MariaDB" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/MariaDB_Logo.png"></code>
   <code><img title="Firebase" height="35" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"></code>
   <code><img title="PHP" width="" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/270px-PHP-logo.svg.png"></code>
   <code><img title="Laravel" width="" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/182px-Laravel.svg.png"></code>
@@ -84,10 +80,10 @@
   <code><img title="Java" height="38" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
   <code><img title="Postman" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
   <code><img title="Docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+</code>
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -97,7 +93,7 @@
       <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=dunghenry&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunghenry&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -111,31 +107,25 @@
 <h2 align="center">💖 Repositories 💖</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dunghenry/rest_api_express_mariadb" title="rest_api_express_mariadb"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=rest_api_express_mariadb&theme=radical&border_color=61dafb&border_radius=10"></a>
-  
- <a align="right" href="https://github.com/dunghenry/rest_api_express_mysql" title="rest_api_express_mysql"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=rest_api_express_mysql&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dunghenry/django_api_mongodb" title="django_api_mongodb"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=django_api_mongodb&theme=radical&border_color=61dafb&border_radius=10"></a>
+ <a align="right" href="https://github.com/dunghenry/vue.js" title="vue.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=vue.js&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/dunghenry/build_shop" title="build_shop"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=build_shop&theme=react&border_color=61dafb&border_radius=10"></a>
-  
- <a align="right" href="https://github.com/dunghenry/Trainning_TypeScript" title="Trainning_TypeScript"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=Trainning_TypeScript&theme=radical&border_color=61dafb&border_radius=10"></a>
+ <a align="right" href="https://github.com/dunghenry/solidity_smart_contract" title="solidity_smart_contract"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=solidity_smart_contract&theme=radical&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dunghenry/logs-package" title="logs-package"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=logs-package&theme=radical&border_color=61dafb&border_radius=10"></a>
-  
- <a align="right" href="https://github.com/dunghenry/library-math" title="library-math"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=library-math&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dunghenry/.net_core_mongodb" title=".net_core_mongodb"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=.net_core_mongodb&theme=radical&border_color=61dafb&border_radius=10"></a>
+ <a align="right" href="https://github.com/dunghenry/laravel_mysql" title="laravel_mysql"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=laravel_mysql&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dunghenry/Social-Media" title="Social-Media"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=Social-Media&theme=react&border_color=61dafb&border_radius=10"></a>
-  
- <a align="right" href="https://github.com/dunghenry/VueJS-Beginners" title="VueJS-Beginners"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=VueJS-Beginners&theme=radical&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dunghenry/echo_mongodb" title="echo_mongodb"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=echo_mongodb&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="right" href="https://github.com/dunghenry/react_rails" title="react_rails"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dunghenry&repo=react_rails&theme=radical&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
-
-
 <h4 align="center">
   <a href="https://github.com/dunghenry?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
