@@ -8,7 +8,7 @@
 </h5>
 <h1 align="center">💕</h1>
 <p align="center">
-  <img width="500" height="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif">
+  <img width="500" height="auto" src="https://github.com/dunghenry/dunghenry/blob/master/images/vd.gif">
 </p>
 <p align="center">
     Hi, I'm Tran Van Dung,
