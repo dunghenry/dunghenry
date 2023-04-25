@@ -29,64 +29,64 @@
 <h2 align="center">💥 Languages & Frameworks & Tools & Abilities 💥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/cSharp.svg"></code>
-  <code><img title="Rust" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/182px-Rust_programming_language_black_logo.svg.png"></code>
-  <code><img title=".Net" height="33" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/96px-Microsoft_.NET_logo.svg.png"></code>
-  <code><img title="Bootstrap" height="35" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"></code>
-  <code><img title="JavaScript" height="30" src="https://i0.wp.com/whizsmart.com/wp-content/uploads/2020/08/advanced-javascript.png?w=280&ssl=1"></code>
-  <code><img title="TypeScript" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code> <code><img title="Coffescript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CoffeeScript-logo.svg/182px-CoffeeScript-logo.svg.png"></code>
-  <code><img title="HTML5" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="39" src="https://github.com/dunghenry/dunghenry/blob/master/images/css.svg"></code>
-  <code><img title="Tailwind CSS" width="35" src="https://www.nstinfotech.com/wp-content/uploads/2020/10/tailwind-logo.png"></code>
-  <code><img title="Webpack" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Webpack.svg/330px-Webpack.svg.png"></code>
-  <code><img title="SASS" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/sass.svg"></code>
-  <code><img title="React" height="33" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-  <code><img title="Redux" height="33" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
-  <code><img title="Redux Saga" height="33" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png"></code>
-  <code><img title="Svelte" height="33" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/96px-Svelte_Logo.svg.png"></code>
-  <code><img title="Vue" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vue.png/330px-Vue.png"></code>
-  <code><img title="Angular" height="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png"></code>
+  <code><img title="C" height="40" src="https://www.svgrepo.com/show/353528/c.svg"></code>
+  <code><img title="C++" height="40" src="https://github.com/dunghenry/dunghenry/blob/master/images/cpp.svg"></code>
+  <code><img title="C#" height="40" src="https://github.com/dunghenry/dunghenry/blob/master/images/cSharp.svg"></code>
+  <code><img title=".Net" height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/96px-Microsoft_.NET_logo.svg.png"></code>
+  <code><img title="Bootstrap" height="40" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg"></code>
+  <code><img title="JavaScript" height="40" src="https://www.svgrepo.com/show/349419/javascript.svg"></code>
+  <code><img title="TypeScript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+  <code><img title="Coffescript" height="40" src="https://www.svgrepo.com/show/394085/coffeescript.svg"></code>
+  <code><img title="HTML5" height="40" src="https://github.com/dunghenry/dunghenry/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="40" src="https://github.com/dunghenry/dunghenry/blob/master/images/css.svg"></code>
+  <code><img title="Tailwind CSS" height="40" src="https://www.svgrepo.com/show/333609/tailwind-css.svg"></code>
+  <code><img title="Webpack" height="40" src="https://www.svgrepo.com/show/354552/webpack.svg"></code>
+  <code><img title="Vite" height="40" src="https://www.svgrepo.com/show/374167/vite.svg"></code>
+  <code><img title="SASS" height="40" src="https://github.com/dunghenry/dunghenry/blob/master/images/sass.svg"></code>
+  <code><img title="React" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+  <code><img title="Redux" height="40" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
+  <code><img title="Redux Saga" height="40" src="https://redux-saga.js.org/img/Redux-Saga-Logo.png"></code>
+  <code><img title="Vue" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vue.png/330px-Vue.png"></code>
+  <code><img title="Angular" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png"></code>
   <code><img title="JQuery" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/jquery-original.svg"></code>
-  <code><img title="AOS animate" height="35" src="https://ps.w.org/cvw-pb-animation/assets/icon-256x256.png?rev=2077939"></code>
-  <code><img title="JSON" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/json.svg"></code>
-  <code><img title="npm" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/npm.svg"></code>
-  <code><img title="NodeJS" height="40" src="https://icon-library.com/images/nodejs-icon/nodejs-icon-15.jpg"></code>
-  <code><img title="Fastify" height="35" src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4"></code>
+  <code><img title="AOS animate" height="40" src="https://ps.w.org/cvw-pb-animation/assets/icon-256x256.png?rev=2077939"></code>
+  <code><img title="JSON" height="40" src="https://www.svgrepo.com/show/353943/json.svg"></code>
+  <code><img title="npm" height="45" src="https://www.svgrepo.com/show/452077/npm.svg"></code>
+  <code><img title="NodeJS" height="40" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg"></code>
+  <code><img title="Fastify" height="40" src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4"></code>
   <code><img title="Hapi" height="40" src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png"></code>
-  <code><img title="SailsJs" height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/SailsJS_logo.png/180px-SailsJS_logo.png"></code>
-  <code><img title="ExpressJs" width="40" src="https://www.mementotech.in/assets/images/icons/express.png"></code>
+  <code><img title="SailsJs" height="38" src="https://w7.pngwing.com/pngs/813/83/png-transparent-node-js-sail-javascript-sail-blue-angle-text-thumbnail.png"></code>
+  <code><img title="Expressjs" height="40" src="https://www.svgrepo.com/show/330398/express.svg"></code>
   <code><img title="NestJS" width="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
   <code><img title="Soket.io" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/182px-Socket-io.svg.png"></code>
-  <code><img title="Next.js" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/195px-Nextjs-logo.svg.png"></code>
-  <code><img title="Nuxtjs" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/330px-Nuxt_logo.svg.png"></code>
-  <code><img title="GraphQL" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/338px-GraphQL_Logo.svg.png"></code>
-  <code><img title="Git" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/git-original.svg"></code>
-  <code><img title="GitHub" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/github.svg"></code>
-  <code><img title="Python" height="33" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png"></code>
-  <code><img title="Flask" height="35" src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png"></code>
-  <code><img title="Django" width="80" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/182px-Django_logo.svg.png"></code>
-  <code><img title="Solidity" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/120px-Solidity_logo.svg.png"></code>
-  <code><img title="Golang" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png"></code>
+  <code><img title="Next.js" width="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"></code>
+  <code><img title="Nuxtjs" width="45" src="https://www.svgrepo.com/show/373940/nuxt.svg"></code>
+  <code><img title="GraphQL" width="43" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/338px-GraphQL_Logo.svg.png"></code>
+  <code><img title="tRPC" height="40" src="https://trpc.io/img/logo.svg"></code>
+  <code><img title="Git" height="40" src="https://github.com/dunghenry/dunghenry/blob/master/images/git-original.svg"></code>
+  <code><img title="GitHub" height="40" src="https://github.com/dunghenry/dunghenry/blob/master/images/github.svg"></code>
+  <code><img title="Flask" height="40" src="https://www.svgrepo.com/show/508915/flask.svg"></code>
+  <code><img title="Django" height="40" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
+  <code><img title="Golang" height="40" src="https://www.svgrepo.com/show/355038/golang.svg"></code>
   <code><img title="Echo Web Framework" height="35" src="https://cdn.labstack.com/images/echo-logo.svg"></code>
   <code><img title="Gin Web Framework" width="30" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"></code>
-  <code><img title="Fiber" height="40" src="https://gofiber.io/assets/images/icon.png"></code>
+  <code><img title="Fiber" height="50" src="https://gofiber.io/assets/images/icon.png"></code>
   <code><img title="Iris" height="40" src="https://www.iris-go.com/favicon.ico"></code>
-  <code><img title="Redis" height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_plain_wordmark_logo_icon_146367.png"></code>
-  <code><img title="PostgreSQL" height="35" src="https://github.com/dunghenry/dunghenry/blob/master/images/postgresql.svg"></code>
-  <code><img title="MySQL" height="35" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/mysql.svg"></code>
-  <code><img title="MariaDB" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/MariaDB_Logo.png"></code>
-  <code><img title="SQL Server" height="35" src="https://cdn4.iconfinder.com/data/icons/LUMINA/database/png/128/database.png"></code>
-  <code><img title="MongoDB" height="35" src="https://code4developers.com/wp-content/uploads/2019/10/MongoDBicon.png"></code>
-  <code><img title="Firebase" height="35" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"></code>
-  <code><img title="PHP" width="" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/270px-PHP-logo.svg.png"></code>
-  <code><img title="Laravel" width="" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/182px-Laravel.svg.png"></code>
-  <code><img title="Ruby" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/150px-Ruby_logo.svg.png"></code>
-  <code><img title="Ruby On Rails" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/182px-Ruby_On_Rails_Logo.svg.png"></code>
-  <code><img title="Java" height="38" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
-  <code><img title="Postman" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-  <code><img title="Docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+  <code><img title="Redis" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_plain_wordmark_logo_icon_146367.png"></code>
+  <code><img title="PostgreSQL" height="40" src="https://github.com/dunghenry/dunghenry/blob/master/images/postgresql.svg"></code>
+  <code><img title="MySQL" height="40" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/mysql.svg"></code>
+  <code><img title="MariaDB" height="45" src="https://www.svgrepo.com/show/330889/mariadbfoundation.svg"></code>
+  <code><img title="SQL Server" height="45" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
+  <code><img title="MongoDB" height="40" src="https://code4developers.com/wp-content/uploads/2019/10/MongoDBicon.png"></code>
+  <code><img title="Firebase" height="40" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"></code>
+  <code><img title="PHP" height="48" src="https://www.svgrepo.com/show/373970/php3.svg"></code>
+  <code><img title="Laravel" height="55" src="https://www.svgrepo.com/show/376332/laravel.svg"></code>
+  <code><img title="Ruby" width="40" src="https://www.svgrepo.com/show/452095/ruby.svg"></code>
+  <code><img title="Sinatra" width="40" src="https://sinatrarb.com/images/logo.png"></code>
+  <code><img title="Ruby On Rails" height="50" src="https://www.svgrepo.com/show/354252/rails.svg"></code>
+  <code><img title="Java" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
+  <code><img title="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+  <code><img title="Docker" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
 </code>
 </p>
 <hr>
